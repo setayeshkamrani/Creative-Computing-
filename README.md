@@ -4,9 +4,8 @@ I didn’t expect to do creative computing on GCD course, it feels like I’m in
 
 ### What I’ve learned that I never was taught before: 
 
-**History of creative computing** 
-
 **Open source software**
+
 Open source is a computer software that the copyright holder allow people to use, edit and copy and even delete. Open source software is good for a collaborative project work as it is highly reliable.  
 
 Examples of open-source: 
